@@ -5,10 +5,10 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
-WEB SITE - http://queenelisa.42web.io/
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+WHATSAPP - 01159250900
+WEB SITE - Golden_ITOSHI
+SUPPORT GROUP - Golden_ITOSHI
+YOUTUBE - Golden_ITOSHI
 
 
 */
@@ -52,7 +52,7 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['01159250900'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ITOSHI RIN ²⁰²³'
 //👇 Your Bot Name
@@ -62,7 +62,7 @@ global.ownernma =  '𝑴𝒓 Mohamed Mostafa'
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 ITOSHI RIN' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'true'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
